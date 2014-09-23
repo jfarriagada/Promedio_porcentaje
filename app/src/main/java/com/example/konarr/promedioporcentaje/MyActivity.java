@@ -16,6 +16,8 @@ public class MyActivity extends Activity {
     private EditText txt_nota1, txt_por1, txt_nota2, txt_por2, txt_nota3, txt_por3, txt_nota4, txt_por4, txt_nota5, txt_por5;
     private Button bt_calcular;
 
+    //coment
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
